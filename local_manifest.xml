@@ -7,5 +7,6 @@
 	<project name="Blackspark-VRUAME7/android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="gh" revision="cm-10.2" />
 	<project name="Blackspark-VRUAME7/android_hardware_samsung" path="hardware/samsung" remote="gh" revision="cm-10.2" />
 	<project name="Blackspark-VRUAME7/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="gh" revision="cm-10.2" />
+	<project name="Blackspark-VRUAME7/proprietary_vendor_samsung" path="vendor/samsung" remote="gh" revision="cm-10.2" />
 
 </manifest>
