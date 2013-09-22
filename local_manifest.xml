@@ -3,7 +3,6 @@
 	<remote fetch="git://github.com/" name="gh" />
 
 	<remove-project name="CyanogenMod/android_hardware_qcom_media-caf"/>
-	<remove-project name="CyanogenMod/android_frameworks_av"/>
 
 	<project name="Blackspark-VRUAME7/android_device_samsung_jf-common" path="device/samsung/jf-common" remote="gh" revision="cm-10.2" />
 	<project name="Blackspark-VRUAME7/android_device_samsung_jfltevzw" path="device/samsung/jfltevzw" remote="gh" revision="cm-10.2" />
@@ -13,6 +12,5 @@
 	<project name="Blackspark-VRUAME7/proprietary_vendor_samsung" path="vendor/samsung" remote="gh" revision="cm-10.2" />
 	<project name="Blackspark-VRUAME7/android_kernel_samsung_jfltevzw" path="kernel/samsung/jfltevzw" remote="gh" revision="master" />
 	<project name="Blackspark-VRUAME7/android_hardware_qcom_media-qcaf" path="hardware/qcom/media-caf" remote="gh" revision="master" />
-	<project name="Blackspark-VRUAME7/android_frameworks_av" path="frameworks/av" remote="gh" revision="master" />
 
 </manifest>
