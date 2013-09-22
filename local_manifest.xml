@@ -2,7 +2,7 @@
 <manifest>
 	<remote fetch="git://github.com/" name="gh" />
 
-	<remove-project name="hardware/qcom/media-caf"/>
+	<remove-project name="CyanogenMod/android_hardware_qcom_media-caf"/>
 
 	<project name="Blackspark-VRUAME7/android_device_samsung_jf-common" path="device/samsung/jf-common" remote="gh" revision="cm-10.2" />
 	<project name="Blackspark-VRUAME7/android_device_samsung_jfltevzw" path="device/samsung/jfltevzw" remote="gh" revision="cm-10.2" />
