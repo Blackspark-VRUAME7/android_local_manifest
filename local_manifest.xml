@@ -2,7 +2,6 @@
 <manifest>
 	<remote fetch="git://github.com/" name="gh" />
 	
-	<remove-project name="CyanogenMod/android_frameworks_av"/>
 	<remove-project name="CyanogenMod/android_hardware_qcom_media-caf"/>
 	<remove-project name="CyanogenMod/android_hardware_qcom_media"/>
 
@@ -11,11 +10,7 @@
 	<project name="Blackspark-VRUAME7/android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="gh" revision="cm-10.1" />
 	<project name="Blackspark-VRUAME7/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="gh" revision="cm-10.1" />
 
-OpenSEMC/android_frameworks_av
-	<project name="OpenSEMC/android_frameworks_av" path="frameworks/av" remote="gh" revision="cm-10.1" />
-
-
-	<project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media" remote="gh" revision="cm-9.1.0" />
+	<project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media" remote="gh" revision="cm-10.1" />
 	<project name="Blackspark-VRUAME7/android_hardware_samsung" path="hardware/samsung" remote="gh" revision="cm-10.1" />
 
 	<project name="Blackspark-VRUAME7/android_kernel_samsung_jfltevzw" path="kernel/samsung/jfltevzw" remote="gh" revision="master" />
