@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<remote fetch="git://github.com/" name="gh" />
-	
-	<remove-project name="CyanogenMod/android_frameworks_av"/>
 
 	<project name="Blackspark-VRUAME7/android_device_samsung_jf-common" path="device/samsung/jf-common" remote="gh" revision="cm-10.1" />
 	<project name="Blackspark-VRUAME7/android_device_samsung_jfltevzw" path="device/samsung/jfltevzw" remote="gh" revision="cm-10.1" />
 	<project name="Blackspark-VRUAME7/android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="gh" revision="cm-10.1" />
 	<project name="Blackspark-VRUAME7/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="gh" revision="cm-10.1" />
-
-	<project name="CyanogenMod/android_frameworks_av" path="frameworks/av" remote="gh" revision="jellybean" />
 
 	<project name="Blackspark-VRUAME7/android_hardware_samsung" path="hardware/samsung" remote="gh" revision="cm-10.1" />
 
